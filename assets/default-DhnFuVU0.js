@@ -1,1 +1,0 @@
-import{d as a,l as e,w as r,m as s,n as _,o}from"./index-CXdsxure.js";const p=a({name:"LayoutDefault",__name:"default",setup(c){return(l,m)=>{const t=s("router-view");return o(),e(t,null,{default:r(({Component:n})=>[(o(),e(_(n)))]),_:1})}}});export{p as default};
